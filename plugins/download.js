@@ -22,7 +22,7 @@ Sparky(
         args = args || m.quoted?.text;
         if (!args) return await m.reply("_Enter Link_");
         let dl = await client.sendMessage(m.jid, {
-            text: "_Downloading..._"
+            text: "_X-BOT IS DOWNLOADING..._"
         }, {
             quoted: m
         })
@@ -53,7 +53,7 @@ Sparky(
         args = args || m.quoted?.text;
         if (!args) return await m.reply("_Enter Link_");
         let dl = await client.sendMessage(m.jid, {
-            text: "_Just a moment..._"
+            text: "_X-BOT:-Just a moment..._"
         }, {
             quoted: m
         })
@@ -104,7 +104,7 @@ Sparky(
                 amount] = args.split(",");
             let result = await gimage(query, amount);
             await m.reply(
-                `_Downloading ${amount || 5} images for ${query}_`
+                `_X-BOT IMG DOWLOADER ${amount || 5} images for ${query}_`
             );
             for (let i of result) {
                 await m.sendMsg(m.jid , i, {}, "image")
