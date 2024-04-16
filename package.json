@@ -1,21 +1,21 @@
 {
-  "name": "X-BOT-MD",
+  "name": "X-BOT",
   "version": "3.0.0",
   "description": "WhatsApp Helper Bot",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "pm2 start . --attach --name X-BOT-MD"
+    "start": "pm2 start . --attach --name X-BOT"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD.git"
+    "url": "git+https://github.com/EX-BOTS/X-BOT.git"
   },
   "keywords": [
     "bot",
     "whatsapp"
   ],
-  "author": "ASWIN SPARKY",
+  "author": "Xcelsama",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
