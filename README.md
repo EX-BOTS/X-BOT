@@ -99,16 +99,14 @@
 * Now fork it and enjoy 🗿🙌🏻
 <br>
 
-#### Thanks To
 
-<details close>
-<summary>Read More</summary>
+ ## `CREDITS`
+MAIN DEV: BASE AND IDEAS BY 
+[![aswin](https://github.com/A-S-W-I-N-S-P-A-R-K-Y.png?size=200)](https://github.com/A-S-W-I-N-S-P-A-R-K-Y) 
 
-<br>
 
-* [`EX-KRIZ`](https://github.com/EX-KRIZ)
-* [`VIPER`](https://github.com/Viper-X0)
-* ## Beta Testers
-* [`Nithin R`](https://wa.me/917012013707?text=Hy+Bro+Big+Fan💕)
- </details>
+THANKS TO FOR TESTING AND MAINTENANCE
+[![kritz](https://github.com/EX-KRIZ.png?size=200)](https://github.com/https://github.com/EX-KRIZ)
  
+[![VIPER](https://github.com/Viper-X0.png?size=200)](https://github.com/Viper-X0) 
+* [`Nithin R`](https://wa.me/917012013707?text=Hy+Bro+Big+Fan💕)
