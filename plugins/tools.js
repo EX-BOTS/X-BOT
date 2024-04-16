@@ -13,7 +13,7 @@ const axios = require('axios');
 
 Sparky(
     {
-        name: "vo",
+        name: "vv",
         fromMe: true,
         category: "tools",
         desc: "Resends the view Once message"
