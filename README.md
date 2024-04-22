@@ -2,7 +2,7 @@
 
       
 </div>
-  <a href="https://x-md-qr-elctro-wizard.koyeb.app">
+  <a href="https://wa.me/+2347045035241">
         <p align="center">
    <img alt="ASWIN SPARKY" height="300" src="https://i.ibb.co/7b5gnwg/IMG-20240413-WA0064.png">
               </p>
@@ -33,7 +33,7 @@
    <br>
 2. Now Deploy
     <br>
-<a href='https://heroku.com/deploy?template=https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
+<a href='https://heroku.com/deploy?template=https://github.com/EX-BOTS/X-BOT' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku'/></a>
 
 #### DEPLOY TO KOYEB 
 
