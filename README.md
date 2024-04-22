@@ -9,24 +9,7 @@
   </a>
 </p>
    
-<p align="center">
 
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/KMqXtMicl9uCgMuduidlXb" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-
-  
-<p align="center">
-
-  <a aria-label="Tutorial" href="https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD/wiki/DEPLOY-TUTORIAL" target="_blank">
-    <img alt="youtube" src="https://img.shields.io/badge/Tutorial-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  
-<div align="center">
-
-## _[External Plugins](https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD/wiki)_
-      
-## _[Basic usage helper](https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD/wiki)_
-</div>
 
 ### FORK THIS REPO
 
