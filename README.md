@@ -4,7 +4,7 @@
 </div>
   <a href="https://x-md-qr-elctro-wizard.koyeb.app">
         <p align="center">
-   <img alt="ASWIN SPARKY" height="300" src="https://i.imgur.com/Q2UNwXR.jpg">
+   <img alt="ASWIN SPARKY" height="300" src="https://i.ibb.co/7b5gnwg/IMG-20240413-WA0064.png">
               </p>
   </a>
 </p>
