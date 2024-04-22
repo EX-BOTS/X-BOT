@@ -1,5 +1,4 @@
-<p align="center"> 
-      <h1 align="center">X BOT (User-bot) (BETA)</h1>
+# X BOT (User-bot)
       <h2 align="center">This bot is still under development so if you want to use it, please check this main repo every day and update your "FORKED REPO" because i am continuously debugging it and making major changes in it</h2>
      <div align="center">
            
